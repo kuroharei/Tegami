@@ -15,9 +15,9 @@
                 background-color: #fff;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
-                font-weight: 200;
-                height: 100vh;
-                margin: 0;
+            }
+            .container{
+                height:100rem;
             }
             .title1{
                 font-size: 84px;
@@ -30,7 +30,9 @@
         </style>
     </head>
     <body>
+    <div class = "container">
         <h1 class="title1">Tegami</h1>
-        <h2 class="title2">手纸</h2>
+        <h2 class="title2">手紙</h2>
+        </div>
     </body>
 </html>
